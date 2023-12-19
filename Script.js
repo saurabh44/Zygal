@@ -3,7 +3,7 @@ function createBoxes() {
       var count = parseInt(countInput.value);
 
       var container = document.getElementById('container');
-      container.innerHTML = ''; // Clear existing boxes
+      container.innerHTML = ''; 
 
       for (var i = 0; i < count; i++) {
         var newBox = document.createElement('div');
