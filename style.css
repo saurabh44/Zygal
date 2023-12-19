@@ -40,5 +40,5 @@ background-color: #000;
     height: 100px;
     background-color: black;
     margin: 30px;
-    float: left; /* Ensure boxes appear in a row */
+    float: left; 
   }
